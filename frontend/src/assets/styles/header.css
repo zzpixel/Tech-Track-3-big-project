@@ -1,0 +1,21 @@
+.header {
+    background-color: rgb(173, 173, 173);
+    height: 15px;
+    top: 0;
+    width: 100%;
+    display: flex;
+    left: 0;
+    right: 0;
+    position:fixed;
+    padding: 20px;
+    padding-left: 30px;
+}
+
+.options {
+    margin-right: 40px;
+}
+
+.profile {
+    margin-left: auto;
+    margin-right: 60px;
+}

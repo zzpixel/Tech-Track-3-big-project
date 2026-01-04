@@ -1,0 +1,60 @@
+html, body{
+    background: rgb(196, 196, 196);
+    padding: 5px
+}
+
+h1{
+    text-align: center;
+}
+
+.welcomebanner {
+    text-align: center;
+    font-size: 100px;
+
+}
+
+.mainform {
+    background-color: transparent;
+}
+
+.signupdiv {
+    padding: 30px;
+    align-items: center;
+    display: grid;
+    grid-template-columns: 1fr;
+    background-color: white;
+    border-radius: 6px;
+    width: 25%;
+    justify-self: center;
+    margin-top: 100px;
+    
+
+}
+
+.signupdiv input {
+    padding: 5px;
+    margin-bottom: 20px;
+}
+
+.signupdiv div {
+    display: flex;
+    align-items: center;
+    justify-self: center;
+}
+
+.signupdiv div  a{
+    margin-left: 5px;
+}
+
+.signupdiv button{
+    height: 50px;
+    background-color: lightblue;
+    border-radius: 10px;
+    padding: 10px;
+    width: 50%;
+    justify-self: center;
+}
+
+.signupdiv span{
+    font-size: 20px;
+}
